@@ -8,19 +8,19 @@
             <a href="mailto:iamkevalsavaliya446@gmail.com" title="Mail">
                 <img src="https://camo.githubusercontent.com/18542460a8d88fe3ba90f0a428c504a9d61e8d54a5a6413def06228766a81955/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d6666343530303f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Mail-ff4500?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
             </a>
-            <a href="https://kevalsavaliya446.github.io/projects" title="Blog" rel="nofollow"><img src="https://camo.githubusercontent.com/d7a0b7329a96eb1aa94fa9bc3e58024d5891e011d1af6bc7c90a27597e5c8a76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726f6a656374732d3361336133613f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
-            </a>
-            <a href="https://kevalsavaliya446.github.io/blog" title="Blog" rel="nofollow"><img src="https://camo.githubusercontent.com/c94cf6f1fffb74a8a49988de2c4e5172abf396551f577682100535638bafc7f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426c6f672d6666383830303f7374796c653d666c6174266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Blog-ff8800?style=flat&amp;logo=blogger&amp;logoColor=white" style="max-width: 100%;">
-            </a>
-            <a href="https://twitter.com/kevalsavaliya446" title="Twitter - kevalsavaliya446" rel="nofollow">
+            <!--<a href="https://kevalsavaliya446.github.io/projects" title="Blog" rel="nofollow"><img src="https://camo.githubusercontent.com/d7a0b7329a96eb1aa94fa9bc3e58024d5891e011d1af6bc7c90a27597e5c8a76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726f6a656374732d3361336133613f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
+            </a>-->
+            <!--<a href="https://kevalsavaliya446.github.io/blog" title="Blog" rel="nofollow"><img src="https://camo.githubusercontent.com/c94cf6f1fffb74a8a49988de2c4e5172abf396551f577682100535638bafc7f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426c6f672d6666383830303f7374796c653d666c6174266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Blog-ff8800?style=flat&amp;logo=blogger&amp;logoColor=white" style="max-width: 100%;">
+            </a>-->
+            <!--<a href="https://twitter.com/kevalsavaliya446" title="Twitter - kevalsavaliya446" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/9e28b5d56b94880c0d5140d54217c0070c766f0d297a27b78a5980079be3850a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d324b416268697368656b2d3030616365653f7374796c653d666c6174266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-00acee?style=flat&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;">
-            </a>
+            </a>-->
             <a href="https://www.linkedin.com/in/keval-savaliya9099309402" title="LinkedIn - kevalsavaliya446" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/50dd84a5f6991942ab3ecdcc3120562498fa7ffe7689cd9433202bcd6abca694/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d324b416268697368656b2d3030373262313f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-0072b1?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
             </a>
             <!--<a href="https://www.instagram.com/iamkevalsavaliya446" title="Instagram - iamkevalsavaliya446" rel="nofollow">-->
                 <img src="https://camo.githubusercontent.com/b2e4fa04d468159f50862c2d0e769cec4fdcd04ae2c7d75e03653c7023f66cf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d69616d326b616268697368656b2d6438323236623f7374796c653d666c6174266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-iamkevalsavaliya446-d8226b?style=flat&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
-            </a>
+            </a>-->
             <!--<a href="https://youtube.com/c/kevalsavaliya446" title="YouTube - kevalsavaliya446" rel="nofollow">-->
                 <img src="https://camo.githubusercontent.com/b893f75f0ebec366c633c524ec2202215d20279a6679517a45fd257f5ce9b483/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d324b416268697368656b2d6666303030303f7374796c653d666c6174266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-ff0000?style=flat&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
             </a>
