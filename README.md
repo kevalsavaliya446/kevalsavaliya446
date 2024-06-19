@@ -16,7 +16,7 @@
                 <img src="https://camo.githubusercontent.com/9e28b5d56b94880c0d5140d54217c0070c766f0d297a27b78a5980079be3850a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d324b416268697368656b2d3030616365653f7374796c653d666c6174266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-00acee?style=flat&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;">
             </a>-->
             <a href="https://www.linkedin.com/in/keval-savaliya9099309402" title="LinkedIn - kevalsavaliya446" rel="nofollow">
-                <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-0072b1?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 85px;">
+                <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-0072b1?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 22%;">
             </a>
             <!--<a href="https://www.instagram.com/iamkevalsavaliya446" title="Instagram - iamkevalsavaliya446" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/b2e4fa04d468159f50862c2d0e769cec4fdcd04ae2c7d75e03653c7023f66cf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d69616d326b616268697368656b2d6438323236623f7374796c653d666c6174266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-iamkevalsavaliya446-d8226b?style=flat&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
