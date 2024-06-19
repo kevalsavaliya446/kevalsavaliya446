@@ -8,13 +8,10 @@
             <a href="mailto:iamkevalsavaliya446@gmail.com" title="Mail">
                 <img src="https://camo.githubusercontent.com/18542460a8d88fe3ba90f0a428c504a9d61e8d54a5a6413def06228766a81955/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d6666343530303f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Mail-ff4500?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
             </a>
-            
             <a href="https://kevalsavaliya446.github.io/projects" title="Blog" rel="nofollow"><img src="https://camo.githubusercontent.com/d7a0b7329a96eb1aa94fa9bc3e58024d5891e011d1af6bc7c90a27597e5c8a76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726f6a656374732d3361336133613f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
             </a>
-            
             <a href="https://kevalsavaliya446.github.io/blog" title="Blog" rel="nofollow"><img src="https://camo.githubusercontent.com/c94cf6f1fffb74a8a49988de2c4e5172abf396551f577682100535638bafc7f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426c6f672d6666383830303f7374796c653d666c6174266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Blog-ff8800?style=flat&amp;logo=blogger&amp;logoColor=white" style="max-width: 100%;">
             </a>
-            
             <a href="https://twitter.com/kevalsavaliya446" title="Twitter - kevalsavaliya446" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/9e28b5d56b94880c0d5140d54217c0070c766f0d297a27b78a5980079be3850a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d324b416268697368656b2d3030616365653f7374796c653d666c6174266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-00acee?style=flat&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;">
             </a>
