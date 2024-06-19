@@ -18,12 +18,12 @@
             <a href="https://www.linkedin.com/in/keval-savaliya9099309402" title="LinkedIn - kevalsavaliya446" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/50dd84a5f6991942ab3ecdcc3120562498fa7ffe7689cd9433202bcd6abca694/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d324b416268697368656b2d3030373262313f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-0072b1?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
             </a>
-            <!--<a href="https://www.instagram.com/iamkevalsavaliya446" title="Instagram - iamkevalsavaliya446" rel="nofollow">-->
+            <!--<a href="https://www.instagram.com/iamkevalsavaliya446" title="Instagram - iamkevalsavaliya446" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/b2e4fa04d468159f50862c2d0e769cec4fdcd04ae2c7d75e03653c7023f66cf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d69616d326b616268697368656b2d6438323236623f7374796c653d666c6174266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-iamkevalsavaliya446-d8226b?style=flat&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
             </a>-->
-            <!--<a href="https://youtube.com/c/kevalsavaliya446" title="YouTube - kevalsavaliya446" rel="nofollow">-->
+            <!--<a href="https://youtube.com/c/kevalsavaliya446" title="YouTube - kevalsavaliya446" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/b893f75f0ebec366c633c524ec2202215d20279a6679517a45fd257f5ce9b483/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d324b416268697368656b2d6666303030303f7374796c653d666c6174266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-kevalsavaliya446-ff0000?style=flat&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
-            </a>
+            </a>-->
             <a href="https://kevalsavaliya446.github.io/links" title="More Links" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/bcb7978dd61391c9780cd31f7d7ed7f6dd440ccedec5a596a22104643cf3a5ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f72652d3039623433613f7374796c653d666c6174266c6f676f3d6c696e6b66697265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-More-09b43a?style=flat&amp;logo=linkfire&amp;logoColor=white" style="max-width: 100%;">
             </a>
