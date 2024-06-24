@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto">
     <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"> <a href="" rel="nofollow">Keval Savaliya </a> </h2></div>
-    <p dir="auto"> <b>Sr. Software tester | Tech Lead 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎   </b> </p>
+    <p dir="auto"> <b>Sr. Software Tester | Tech Lead 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎   </b> </p>
     <p dir="auto"> I build systems and tools for developers to get their job done, with a soft spot for the CLI.</p>
     <p dir="auto"> I code to make lives easier and to make learning more fun! </p>
     <p align="center" dir="auto">
