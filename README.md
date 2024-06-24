@@ -32,7 +32,7 @@
     <!--<a href="https://2KAbhishek.github.io/projects" title="Snake eats commits!" rel="nofollow">-->
         <img width="700" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" style="max-width: 100%;">
     </a>
-    <p dir="auto"> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
+    <!--<p dir="auto"> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>-->
 </div>
 </article>
 <!---
